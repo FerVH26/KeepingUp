@@ -1,0 +1,4 @@
+#Tue May 19 14:02:50 CST 2020
+base.0=/home/hugo/Proyecto-moviles/KeepingUp/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
